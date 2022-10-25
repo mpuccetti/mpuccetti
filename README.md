@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Marco Puccetti
 - 👀  I’m interested in Digital And Business Evolution.
 - 🌱  I’m currently learning Business Intelligence.
-- 💞️  I’m looking to collaborate on What i mean i intend for to do.
+- 💞️  I’m looking to collaborate on What i mean i intend to do.
 - 📫  How to reach me marco.puccetti@icloud.com
 
 <!---
